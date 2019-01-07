@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{343675F2-C76F-4B05-957C-F13FF5DCAF40}"
 	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
 		Script1.js = Script1.js
 	EndProjectSection
 EndProject
